@@ -63,11 +63,11 @@
 # Cara Menjalankan Bot Kembali :
 
 # Di C9 :
-# cd Line-Bot-Protect-And-Selfbot
+# cd MC34-Bot-Protect01
 # python3 rey.py
 
 # Di Termux :
-# cd Line-Bot-Protect-And-Selfbot
+# cd MC34-Bot-Protect01
 # python3 rey.py
 
 
