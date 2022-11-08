@@ -1,4 +1,4 @@
-# GHOST HUNTER DEATH
+# SILENT HUNT
 # BOT PROTECT ANTI JS
 # 1 ADMIN + 4 ASIST
 # jangan gunakan untuk merugikan orang lain
