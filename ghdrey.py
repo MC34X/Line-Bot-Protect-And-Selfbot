@@ -9,17 +9,17 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
-#sb ɢʜᴅ V.2.3.0
-#rey_sᴇʙᴀsᴛɪᴀɴ_ɢʜᴅ
+#sb gaplek V.2.3.0
+#MC34X
 #jangan ᴜʙᴀʜ ᴍɪᴅ ᴄʀᴇᴀᴛᴏʀ
-#remake ʙʏ: ʀᴇʏ_ɢʜᴅ
+#remake ʙʏ: MC34X
 cl = LineClient() #Login via qr
 #cl = LineClient("","") #login via email
 #cl = LineClient(authToken='') #login via token
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
-print("Login SB GHD SUCCESS BANG REY")
+print("Login SB BOT gaplek")
 
 poll = LinePoll(cl)
 call = cl
