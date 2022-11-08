@@ -4,7 +4,7 @@
 # jangan gunakan untuk merugikan orang lain
 # saling berbagi ilmu
 
-# GHDPROTECTION
+
 # CARA INSTALL BOTNYA ADA DI BAWAH
 # HARAP TELITI DALAM MENGINSTALL DAN MENULIS TEXTNYA
 # SALAH SATU HURUFPUN DAPAT MENYEBABKAN ERROR BOTNYA
@@ -35,8 +35,8 @@
 # sudo pip3 install wikipedia
 # sudo pip3 install tweepy
 # sudo pip3 install youtube_dl
-# git clone https://github.com/MC34X/MC34-Bot-Protect01
-# cd MC34-Bot-Protect01
+# git clone https://github.com/MC34X/botprot
+# cd botprot
 # python rey.py
 
 # INSTALL Di TERMUX :
@@ -56,18 +56,18 @@
 # pip3 install wikipedia
 # pip3 install youtube_dl
 # pip3 install tweepy
-# git clone https://github.com/MC34X/MC34-Bot-Protect01
-# cd MC34-Bot-Protect01
+# git clone https://github.com/MC34X/botprot
+# cd botprot
 # python3 rey.py
 
 # Cara Menjalankan Bot Kembali :
 
 # Di C9 :
-# cd MC34-Bot-Protect01
+# cd botprot
 # python3 rey.py
 
 # Di Termux :
-# cd MC34-Bot-Protect01
+# cd botprot
 # python3 rey.py
 
 
