@@ -3,8 +3,8 @@
 # BOT PROTECT ANTI JS
 # 1 ADMIN + 4 ASIST
 # jangan gunakan untuk merugikan orang lain
-# jika ada yang ingin ditanyakan bisa add saya
-# id line saya: rey_tlangu
+# 
+# 
 # saling berbagi ilmu
 #
 #
