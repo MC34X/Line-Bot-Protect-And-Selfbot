@@ -35,8 +35,8 @@
 # sudo pip3 install wikipedia
 # sudo pip3 install tweepy
 # sudo pip3 install youtube_dl
-# git clone https://github.com/reysebastian/reymia
-# cd reymia
+# git clone https://github.com/MC34X/Line-Bot-Protect-And-Selfbot
+# cd Line-Bot-Protect-And-Selfbot
 # python rey.py
 
 # INSTALL Di TERMUX :
@@ -56,18 +56,18 @@
 # pip3 install wikipedia
 # pip3 install youtube_dl
 # pip3 install tweepy
-# git clone https://github.com/reysebastian/reymia
-# cd reymia
+# git clone https://github.com/MC34X/Line-Bot-Protect-And-Selfbot
+# cd Line-Bot-Protect-And-Selfbot
 # python3 rey.py
 
 # Cara Menjalankan Bot Kembali :
 
 # Di C9 :
-# cd reymia
+# cd Line-Bot-Protect-And-Selfbot
 # python3 rey.py
 
 # Di Termux :
-# cd reymia
+# cd Line-Bot-Protect-And-Selfbot
 # python3 rey.py
 
 
