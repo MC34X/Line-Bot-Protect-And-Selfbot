@@ -35,8 +35,8 @@
 # sudo pip3 install wikipedia
 # sudo pip3 install tweepy
 # sudo pip3 install youtube_dl
-# git clone https://github.com/MC34X/Line-Bot-Protect-And-Selfbot
-# cd Line-Bot-Protect-And-Selfbot
+# git clone https://github.com/MC34X/MC34-Bot-Protect01
+# cd MC34-Bot-Protect01
 # python rey.py
 
 # INSTALL Di TERMUX :
@@ -56,8 +56,8 @@
 # pip3 install wikipedia
 # pip3 install youtube_dl
 # pip3 install tweepy
-# git clone https://github.com/MC34X/Line-Bot-Protect-And-Selfbot
-# cd Line-Bot-Protect-And-Selfbot
+# git clone https://github.com/MC34X/MC34-Bot-Protect01
+# cd MC34-Bot-Protect01
 # python3 rey.py
 
 # Cara Menjalankan Bot Kembali :
