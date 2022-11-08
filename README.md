@@ -1,13 +1,9 @@
-#
 # GHOST HUNTER DEATH
 # BOT PROTECT ANTI JS
 # 1 ADMIN + 4 ASIST
 # jangan gunakan untuk merugikan orang lain
-# jika ada yang ingin ditanyakan bisa add saya
-# id line saya: rey_tlangu
 # saling berbagi ilmu
-#
-#
+
 # GHDPROTECTION
 # CARA INSTALL BOTNYA ADA DI BAWAH
 # HARAP TELITI DALAM MENGINSTALL DAN MENULIS TEXTNYA
@@ -74,11 +70,6 @@
 # cd reymia
 # python3 rey.py
 
-
-# 
-
-# 
-# GHOST HUNTER DEATH TEAM BOT
 
 
  
