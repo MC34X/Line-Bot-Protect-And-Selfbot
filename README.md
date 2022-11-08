@@ -1,4 +1,4 @@
-# REY SEBASTIAN
+#
 # GHOST HUNTER DEATH
 # BOT PROTECT ANTI JS
 # 1 ADMIN + 4 ASIST
@@ -6,7 +6,7 @@
 # jika ada yang ingin ditanyakan bisa add saya
 # id line saya: rey_tlangu
 # saling berbagi ilmu
-# YOUTUBE: https://www.youtube.com/channel/UCiaIqkq-haV6TTDbATDRIOQ
+#
 #
 # GHDPROTECTION
 # CARA INSTALL BOTNYA ADA DI BAWAH
@@ -75,9 +75,9 @@
 # python3 rey.py
 
 
-# EDITOR BY REY SEBASTIAN
+# 
 
-# Add My ID LINE : rey_tlangu
+# 
 # GHOST HUNTER DEATH TEAM BOT
 
 
